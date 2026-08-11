@@ -6,7 +6,7 @@ import siteConfig from './src/data/site-config';
 
 // https://astro.build/config
 export default defineConfig({
-    site: 'https://jpquinterp.github.io',
+    site: 'https://jpquinterop.github.io',
     vite: {
         plugins: [tailwindcss()]
     },
