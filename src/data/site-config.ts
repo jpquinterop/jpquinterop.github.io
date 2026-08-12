@@ -3,89 +3,49 @@ import hero from '../assets/images/hero.jpg';
 import type { SiteConfig } from '../types';
 
 const siteConfig: SiteConfig = {
-    website: 'https://example.com',
+    website: 'https://jpquinterop.github.io',
     avatar: {
         src: avatar,
-        alt: 'Ethan Donovan'
+        alt: 'Jean Paul Quintero Pelaez'
     },
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Jean Paul Quintero Pelaez',
+    subtitle: 'Estudiante de Ingeniería de Sistemas y Matematicas y Ciencia de Datos',
+    description: 'Portafolio de bases de datos 1',
     image: {
         src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        alt: 'Jean Paul Quintero Pelaez - https://github.com/jpquinterop/jpquinterop.github.io'
     },
     headerNavLinks: [
-        {
-            text: 'Home',
-            href: '/'
-        },
-        {
-            text: 'Projects',
-            href: '/projects'
-        },
-        {
-            text: 'Blog',
-            href: '/blog'
-        },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
+        { text: 'Inicio', href: '/' },
+        { text: 'Presentación', href: '/presentacion' },
+        { text: 'Projectos', href: '/projects' },
+        { text: 'Blog', href: '/blog' }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
-        {
-            text: 'Contact',
-            href: '/contact'
-        },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
+        { text: 'About', href: '/about' },
+        { text: 'Contact', href: '/contact' },
+        { text: 'Terms', href: '/terms' }
     ],
     socialLinks: [
-        {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
-        },
-        {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
-        }
+        { text: 'GitHub', href: '**https://github.com/jpquinterop**' },
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence.\nMy approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products.\nI have a profound appreciation for top-notch software, visual design, and the principles of product-led growth.\n\nFeel free to explore some of my coding endeavors on [GitHub](https://github.com/JustGoodUI/dante-astro-theme) or follow me on [Twitter/X](https://twitter.com/justgoodui).",
+        title: 'Hola, bienvenido a mi portafolio',
+        text: "Soy Jean Paul Quintero Pelaez, soy estudiante de Ing. de Sistemas y matematicas.\n\n\nExplora mis proyectos en [GitHub](https://github.com/jpquinterop).",
         image: {
             src: hero,
-            alt: 'A person sitting at a desk in front of a computer'
+            alt: '**Tu Nombre trabajando en su computador**'
         },
         actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
+            { text: 'Ver Presentación', href: '/presentacion' },
+            { text: 'Contáctame', href: '/contact' }
         ]
     },
     subscribe: {
-        enabled: true,
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
-        form: {
-            action: '#'
-        }
+        enabled: false,
+        title: '',
+        text: '',
+        form: { action: '#' }
     },
     postsPerPage: 8,
     projectsPerPage: 8
