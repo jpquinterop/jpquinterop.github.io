@@ -22,9 +22,8 @@ const siteConfig: SiteConfig = {
         { text: 'Blog', href: '/blog' }
     ],
     footerNavLinks: [
-        { text: 'About', href: '/about' },
-        { text: 'Contact', href: '/contact' },
-        { text: 'Terms', href: '/terms' }
+        { text: 'Sobre mi', href: '/about' },
+        { text: 'Contacto', href: '/contact' },
     ],
     socialLinks: [
         { text: 'GitHub', href: '**https://github.com/jpquinterop**' },
