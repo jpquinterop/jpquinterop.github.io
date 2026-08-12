@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sobre mi
 seo:
   title: Sobre mí
   description: '**Descripción corta para SEO de tu página About**'

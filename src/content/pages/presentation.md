@@ -9,7 +9,7 @@ seo:
 
 ## ¡Hola! Soy Jean Paul, me dicen Yan, Paul o JP.
 
-Me gusta hacer esculturas, la matematica, no soy tanto de deportes.
+Me gusta hacer esculturas, la matematica, no soy tanto de deportes, juego valorant hace 7 meses (un fracasado total), orgulloso main deadlock en proceso de mejora.
 
 ### ¿Por qué Bases de Datos 1 me va a ayudar en mi vida profesional?
 

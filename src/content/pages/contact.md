@@ -1,8 +1,8 @@
 ---
-title: Get in touch
+title: Como hablarme
 seo:
   title: Contacto
-  description: Contáctame por correo o redes sociales.
+  description: Puedes encontrarme en git.
 ---
 
 _Redes:_
