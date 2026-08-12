@@ -15,9 +15,9 @@ const siteConfig: SiteConfig = {
         src: '/dante-preview.jpg',
         alt: 'Jean Paul Quintero Pelaez - https://github.com/jpquinterop/jpquinterop.github.io'
     },
-    headerNavLinks: [
+     headerNavLinks: [
         { text: 'Inicio', href: '/' },
-        { text: 'Presentación', href: '/presentacion' },
+        { text: 'Presentación', href: '/presentation' },  
         { text: 'Projectos', href: '/projects' },
         { text: 'Blog', href: '/blog' }
     ],
@@ -36,10 +36,10 @@ const siteConfig: SiteConfig = {
             src: hero,
             alt: '**Tu Nombre trabajando en su computador**'
         },
-        actions: [
-            { text: 'Ver Presentación', href: '/presentacion' },
+       actions: [
+            { text: 'Ver Presentación', href: '/presentation' }, 
             { text: 'Contáctame', href: '/contact' }
-        ]
+            ]
     },
     subscribe: {
         enabled: false,
