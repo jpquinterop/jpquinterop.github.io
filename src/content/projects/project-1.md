@@ -4,7 +4,7 @@ description: 'App de planeación de viajes y reservas desarrollada con Angular y
 publishDate: 'May 2026'
 ---
 
-![TravelX preview](../../assets/images/project-1.jpg)
+![TravelX preview](../../assets/images/hero.jpg)
 
 Proyecto Travel X:
 
