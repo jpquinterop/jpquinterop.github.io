@@ -1,9 +1,8 @@
 ---
 title: 'TravelX'
+description: 'App de planeación de viajes y reservas desarrollada con Angular y Spring Boot.'
+publishDate: 'May 2026'
 seo:
-  image:
-    src: '../../assets/images/project-1.jpg'
-    alt: TravelX preview
 ---
 
 ![TravelX preview](../../assets/images/project-1.jpg)
