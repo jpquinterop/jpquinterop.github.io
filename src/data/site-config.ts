@@ -25,7 +25,7 @@ const siteConfig: SiteConfig = {
         { text: 'Contacto', href: '/contact' },
     ],
     socialLinks: [
-        { text: 'GitHub', href: '**https://github.com/jpquinterop**' },
+        { text: 'GitHub', href: 'https://github.com/jpquinterop' },
     ],
     hero: {
         title: 'Hola, bienvenido a mi portafolio',
