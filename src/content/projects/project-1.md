@@ -1,7 +1,5 @@
 ---
-title: 'TravelX - **Nombre corto de tu app de viajes**'
-description: '**Escribe 1-2 frases resumiendo qué hace TravelX (para la vista previa)**'
-publishDate: '**Ago 12 2026**'
+title: 'TravelX'
 seo:
   image:
     src: '../../assets/images/project-1.jpg'
