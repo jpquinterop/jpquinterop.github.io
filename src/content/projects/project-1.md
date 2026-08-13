@@ -4,8 +4,6 @@ description: 'App de planeación de viajes y reservas desarrollada con Angular y
 publishDate: 'May 2026'
 ---
 
-![TravelX preview](../../assets/images/hero.jpg)
-
 Proyecto Travel X:
 
 TravelX es una aplicación desarrollado en grupo de planeación de viajes y reservas, desarrollada con Angular (web y móvil) y un backend en Spring Boot.
