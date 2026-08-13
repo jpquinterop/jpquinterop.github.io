@@ -5,7 +5,7 @@ seo:
   description: Mi video de presentación para Bases de Datos 1.
 ---
 
-![Foto de **Tu Nombre**](../../assets/images/avatar.jpg)
+![Yo](../../assets/images/avatar.jpg)
 
 ## ¡Hola! Soy Jean Paul, me dicen Yan, Paul o JP.
 

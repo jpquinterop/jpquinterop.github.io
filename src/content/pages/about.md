@@ -2,7 +2,7 @@
 title: Sobre mi
 seo:
   title: Sobre mí
-  description: '**Descripción corta para SEO de tu página About**'
+  description: 'Soy alguien apasionado por las matematicas, odio leer y odio valorant'
 ---
 
 ## Jean Paul Quintero Pelaez - Estudiante de Ing. de sistemas y matematicas

@@ -18,8 +18,7 @@ const siteConfig: SiteConfig = {
      headerNavLinks: [
         { text: 'Inicio', href: '/' },
         { text: 'Presentación', href: '/presentation' },  
-        { text: 'Projectos', href: '/projects' },
-        { text: 'Blog', href: '/blog' }
+        { text: 'Proyectos', href: '/projects' }
     ],
     footerNavLinks: [
         { text: 'Sobre mi', href: '/about' },
@@ -33,7 +32,7 @@ const siteConfig: SiteConfig = {
         text: "Soy Jean Paul Quintero Pelaez, soy estudiante de Ing. de Sistemas y matematicas.\n\n\nExplora mis proyectos en [GitHub](https://github.com/jpquinterop).",
         image: {
             src: hero,
-            alt: '**Tu Nombre trabajando en su computador**'
+            alt: 'Jean Paul'
         },
        actions: [
             { text: 'Ver Presentación', href: '/presentation' }, 
