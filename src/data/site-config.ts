@@ -18,7 +18,8 @@ const siteConfig: SiteConfig = {
      headerNavLinks: [
         { text: 'Inicio', href: '/' },
         { text: 'Presentación', href: '/presentation' },  
-        { text: 'Proyecto', href: '/projects' }
+        { text: 'Proyecto', href: '/projects' },
+        { text: 'Evidencias', href: '/evidence' },
     ],
     footerNavLinks: [
         { text: 'Sobre mi', href: '/about' },

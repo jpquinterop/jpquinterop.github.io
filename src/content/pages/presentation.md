@@ -24,7 +24,7 @@ Este semestre quiero mostrar mejoria en las matematicas y ver que tan bien me lo
 <iframe
   width="100%"
   height="400"
-  src="https://www.youtube.com/shorts/NFRJ-k_i_s8"
+  src="https://www.youtube.com/embed/NFRJ-k_i_s8"
   title="Video de presentación"
   frameborder="0"
   allowfullscreen
